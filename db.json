@@ -1,15 +1,7 @@
   
 {
   "cities": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
+    "monroe",
+    "cambridge"
   ]
 }
