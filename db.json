@@ -141,5 +141,6 @@
     ],
     "profile": {
         "name": "typicode"
-    }
+    },
+    "cities" : {"monroe", "cambridge"}
 }
