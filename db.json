@@ -1,1 +1,2 @@
-["monroe","cambridge", "michigan"]
+{ "cities" : ["monroe","cambridge", "michigan"]
+}
