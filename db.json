@@ -139,8 +139,5 @@
   	],
   	"profile": {
   		"name": "typicode"
-  	},
-    "cities": {
-  		"hello": ["cambridge", "monroe", "michigan"]
   	}
   }
