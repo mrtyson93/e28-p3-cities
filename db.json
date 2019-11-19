@@ -1,9 +1,14 @@
 {
-	"cities": {
-		"hello": [
-			"test1",
-			"test2",
-			"test3"
-		]
-	}
+	"cities": [
+		{
+			"id": 1,
+			"city": "Monroe",
+			"zipcode": 48161
+		},
+		{
+			"id": 2,
+			"city": "Weiner",
+			"zipcode": 12345
+		}
+	]
 }
