@@ -1,5 +1,3 @@
-{
-	"cities": [
         "city_ascii, state_id",
         "South Creek, WA",
         "Roslyn, WA",
@@ -28889,16 +28887,4 @@
         "Spearfish, SD",
         "Emery, SD",
         "Watertown, SD",
-        "Buffalo, SD"
-	],
-	"zipcodes": [
-		[
-			"1",
-			"2"
-		],
-		[
-			"3",
-			"4"
-		]
-	]
-}
+        "Buffalo, SD",
