@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "prod": "json-server db.json &",
+        "posttest": "pkill -f json-server"
+    },
+    "dependencies": {
+        "json-server": "^0.15.1"
+    }
+}
